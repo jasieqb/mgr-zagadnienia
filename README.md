@@ -4,7 +4,7 @@
 
 ### 🧠 Sztuczna inteligencja / Uczenie maszynowe
 
-[ml.md](src/ml.md)
+> [ml.md](src/ml.md)
 
 - [x] 1. Paradygmaty (rodzaje) uczenia maszynowego.
 - [x] 2. Pojęcie parametrów i hiperparametrów modelu uczenia maszynowego – modele parametryczne i nieparametryczne.
@@ -14,7 +14,9 @@
 
 ### 📊 Inżynieria danych / Business Intelligence
 
-- [ ] 6. Metody integracji danych.
+> [bi.md](src/bi.md)
+
+- [x] 6. Metody integracji danych.
 - [ ] 7. Porównanie koncepcja jeziora danych i hurtowni danych.
 - [ ] 8. Twierdzenie CAP.
 - [ ] 9. Istota i zastosowania Business Intelligence (BI).
